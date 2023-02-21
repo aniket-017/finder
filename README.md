@@ -1,4 +1,4 @@
-# MERN E-COMMERCE TUTORIAL
+# MERN Accomodation app
 
 Hi! My name is  **Aniket Khillare**, I have created an web app which helps in finding accomodation.
 
